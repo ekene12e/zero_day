@@ -1,1 +1,1 @@
-This project is a tutorial on setting up vagrant on my pc
+This project is a tutorial on setting up vagrant on my machine
